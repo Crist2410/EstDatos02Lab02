@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Crist\\Desktop\\ED02LAB02\\APi_Lab02\\APi_Lab02.csproj": {}
+    "C:\\Users\\Crist\\Desktop\\EstDatos02Lab02\\APi_Lab02\\APi_Lab02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Crist\\Desktop\\ED02LAB02\\APi_Lab02\\APi_Lab02.csproj": {
+    "C:\\Users\\Crist\\Desktop\\EstDatos02Lab02\\APi_Lab02\\APi_Lab02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Crist\\Desktop\\ED02LAB02\\APi_Lab02\\APi_Lab02.csproj",
+        "projectUniqueName": "C:\\Users\\Crist\\Desktop\\EstDatos02Lab02\\APi_Lab02\\APi_Lab02.csproj",
         "projectName": "APi_Lab02",
-        "projectPath": "C:\\Users\\Crist\\Desktop\\ED02LAB02\\APi_Lab02\\APi_Lab02.csproj",
+        "projectPath": "C:\\Users\\Crist\\Desktop\\EstDatos02Lab02\\APi_Lab02\\APi_Lab02.csproj",
         "packagesPath": "C:\\Users\\Crist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Crist\\Desktop\\ED02LAB02\\APi_Lab02\\obj\\",
+        "outputPath": "C:\\Users\\Crist\\Desktop\\EstDatos02Lab02\\APi_Lab02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

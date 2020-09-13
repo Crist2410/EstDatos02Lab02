@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Crist\\Desktop\\ED02LAB02\\PruebasConsola\\PruebasConsola.csproj": {}
+    "C:\\Users\\Crist\\Desktop\\EstDatos02Lab02\\PruebasConsola\\PruebasConsola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Crist\\Desktop\\ED02LAB02\\PruebasConsola\\PruebasConsola.csproj": {
+    "C:\\Users\\Crist\\Desktop\\EstDatos02Lab02\\PruebasConsola\\PruebasConsola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Crist\\Desktop\\ED02LAB02\\PruebasConsola\\PruebasConsola.csproj",
+        "projectUniqueName": "C:\\Users\\Crist\\Desktop\\EstDatos02Lab02\\PruebasConsola\\PruebasConsola.csproj",
         "projectName": "PruebasConsola",
-        "projectPath": "C:\\Users\\Crist\\Desktop\\ED02LAB02\\PruebasConsola\\PruebasConsola.csproj",
+        "projectPath": "C:\\Users\\Crist\\Desktop\\EstDatos02Lab02\\PruebasConsola\\PruebasConsola.csproj",
         "packagesPath": "C:\\Users\\Crist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Crist\\Desktop\\ED02LAB02\\PruebasConsola\\obj\\",
+        "outputPath": "C:\\Users\\Crist\\Desktop\\EstDatos02Lab02\\PruebasConsola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
