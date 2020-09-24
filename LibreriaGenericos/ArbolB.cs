@@ -6,5 +6,6 @@ namespace LibreriaGenericos
 {
     class Class2
     {
+
     }
 }
